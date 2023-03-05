@@ -33,5 +33,5 @@ li:hover::before{
   cursor: pointer;
 }
 .card{
-  background: #000;
+  background: url(/src/assests/test.jpg);
 }

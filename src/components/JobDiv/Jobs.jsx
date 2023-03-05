@@ -113,7 +113,7 @@ const Jobs = () => {
                 </span>
                 <h6 className='text-[13px] text-[#959595] pt[20px] border-t-[2px] mt-[20PX]
                 group-hover:text-white'>{location}</h6>
-                <p className='text-[13px] text-[#95959] pt-[20px] border-t-[2px] mt-[20px]'>{desc}
+                <p className='hover:text-white text-[13px] text-[#95959] pt-[20px] border-t-[2px] mt-[20px]'>{desc}
 
                 </p>
                 <div className='company flex items-center gap-2'>
